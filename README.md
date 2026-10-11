@@ -2,6 +2,7 @@
 Airbnb Data Analysis and Exploratory Data Analysis using Python
 
 Project Overview
+
 This project performs Exploratory Data Analysis (EDA) on Airbnb listing data using Python.
 
 Technologies Used
@@ -13,6 +14,7 @@ Technologies Used
 - Jupyter Notebook
 
 Dataset
+
 The dataset contains Airbnb listing information including:
 
 - Price
