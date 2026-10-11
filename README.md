@@ -15,6 +15,10 @@ Technologies Used
 
 Dataset
 
+The Airbnb dataset is provided as a compressed ZIP file because the original CSV is too large for direct GitHub upload.
+
+Download the ZIP file, extract it, and place the CSV file in the project folder before running "Airbnb_EDA.ipynb".
+
 The dataset contains Airbnb listing information including:
 
 - Price
