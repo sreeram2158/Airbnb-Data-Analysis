@@ -50,3 +50,7 @@ The following analyses and visualizations were performed:
 # Conclusion
 
 This project explores Airbnb listing data and provides insights into pricing, room types, neighbourhoods, and reviews.
+
+# Key Insights
+
+The Airbnb dataset contains over 100K listings with substantial variation in prices and accommodation types. Listings are distributed across multiple neighbourhood groups, and room type shows differences in pricing. The dataset contained significant missing values and duplicate records, which were handled during preprocessing. Review activity was also analyzed over time to identify changes in listing engagement.
