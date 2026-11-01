@@ -1,7 +1,7 @@
 # Airbnb-Data-Analysis
 Airbnb Data Analysis and Exploratory Data Analysis using Python
 
-Project Overview
+# Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on Airbnb listing data using Python.
 
@@ -13,7 +13,7 @@ Technologies Used
 - Seaborn
 - Jupyter Notebook
 
-Dataset
+# Dataset
 
 The Airbnb dataset is provided as a compressed ZIP file because the original CSV is too large for direct GitHub upload.
 
@@ -28,7 +28,7 @@ The dataset contains Airbnb listing information including:
 - Availability
 - Host information
 
-Data Cleaning
+# Data Cleaning
 
 The project includes:
 - Checking missing values
@@ -38,7 +38,7 @@ The project includes:
 - Converting price and service fee to numeric values
 - Removing duplicate records
 
-Exploratory Data Analysis
+# Exploratory Data Analysis
 
 The following analyses and visualizations were performed:
 - Distribution of listing prices
@@ -47,12 +47,6 @@ The following analyses and visualizations were performed:
 - Price vs. room type
 - Number of reviews over time
 
-Project Files
-
-- "Airbnb_EDA.ipynb" — Jupyter Notebook containing the analysis
-- "README.md" — Project documentation
-- "requirements.txt" — Python libraries required for the project
-
-Conclusion
+# Conclusion
 
 This project explores Airbnb listing data and provides insights into pricing, room types, neighbourhoods, and reviews.
